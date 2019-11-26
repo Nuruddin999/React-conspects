@@ -8,4 +8,8 @@
 
 <img src="/reducers/image.png">
 
+### Then notify subcsriber in dispatch function to re render component
+
+<img src="/reducers/notifysubscriber.png">
+
 
