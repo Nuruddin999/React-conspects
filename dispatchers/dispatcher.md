@@ -11,3 +11,7 @@
 ## After making dispatch you can pass it as props to main rendfering method in order to pass it through whole app
 
 <img src="dispatchPassingAsPropsInMainRendering.png">
+
+## Then you can directly implement it in your place 
+
+<img src="dispatchDirectCallingInNessecaryPlace.png">
