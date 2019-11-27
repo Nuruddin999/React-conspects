@@ -6,4 +6,4 @@
 
 ## But what if you want dispatch run function with params , so you should pass this params to dispatcher
 
-<img src="/dispatchers/dispatcherWithParams.png" width=600 height=400>
+<img src="/dispatchers/dispatchWithParams.png" width=500 height=250>
